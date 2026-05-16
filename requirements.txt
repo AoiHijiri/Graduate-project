@@ -1,0 +1,2 @@
+# Optional but recommended: enables symbolic solving, integrals, and summations.
+sympy>=1.12
